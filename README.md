@@ -1,8 +1,8 @@
 #Trabajo Práctico 1
 
-**Fecha entrega:** 29/08/2016
-**Repositorio del tp:**   -
-**Modalidad:** Individual
+**Fecha entrega:** 29/08/2016 
+**Repositorio del tp:**   - 
+**Modalidad:** Individual 
 
 ##Consigna
 
